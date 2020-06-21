@@ -16,7 +16,6 @@ namespace Dias_de_cada_mes
             b = Convert.ToInt32(Console.ReadLine());
             int c = b-1;
             Console.WriteLine("La cantidad de dias que tiene el mes "+b+" es: "+ a[c]);
-
             Console.ReadKey();
 
         }
